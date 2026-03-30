@@ -12,7 +12,7 @@ Attach a session on a running container
 
 ```shell
 # start a docker container
-$ docker run -it -p 4000:4000 myapp 
+$ docker run -it -p 4000:4000 myapp
 
 # open a second terminal, observe the container ID, for example
 
@@ -39,7 +39,7 @@ This command allows you to pause and resume a container without killing it.
 
 ```shell
 # start a docker container
-$ docker run -it -p 4000:4000 myapp 
+$ docker run -it -p 4000:4000 myapp
 
 # open a second terminal, observe the container ID, for example
 
