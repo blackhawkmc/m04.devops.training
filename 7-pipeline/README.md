@@ -1,4 +1,4 @@
-# Module 5 - Build and push docker image using CI/CD pipeline
+# Module 7 - Build and push docker image using CI/CD pipeline
 
 **Goal**: Learn to build images in CI pipeline
 
